@@ -1,0 +1,19 @@
+{% include header.html %}
+
+  <div class="splash container">
+    <div class="row-fluid">
+      <div class="span12">
+        <h1>serverdlmcpe</h1>
+        <h2>serverdlmcpe</h2>
+      </div>
+    </div>
+  </div>
+</div><!-- ends .full-width that started in header.html -->
+
+<div>
+
+{{ content }}
+
+</div>
+
+{% include footer.html %}
