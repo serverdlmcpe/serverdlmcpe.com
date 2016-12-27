@@ -1,0 +1,44 @@
+2016-12-27 18:51:12 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2016-12-27 18:51:12 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-27 18:51:12 [INFO] Loading pocketmine.yml...
+2016-12-27 18:51:12 [INFO] Loading server properties...
+2016-12-27 18:51:13 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-27 18:51:13 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-27 18:51:13 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-27 18:51:19 [NOTICE] Level "tntwars" not found
+2016-12-27 18:51:19 [INFO] Preparing level "tntwars"
+2016-12-27 18:51:19 [NOTICE] Spawn terrain for level "tntwars" is being generated in the background
+2016-12-27 18:51:20 [INFO] Starting GS4 status listener
+2016-12-27 18:51:20 [INFO] Setting query port to 19132
+2016-12-27 18:51:20 [INFO] Query running on 0.0.0.0:19132
+2016-12-27 18:51:20 [INFO] Default game type: CREATIVE
+2016-12-27 18:51:20 [INFO] Done (13.419s)! For help, type "help" or "?"
+2016-12-27 18:51:20 [INFO] CONSOLE: Stopping the server...
+2016-12-27 18:51:20 [INFO] Unloading level "tntwars"
+2016-12-27 18:51:20 [INFO] Stopping other threads
+2016-12-27 18:51:35 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2016-12-27 18:51:35 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-27 18:51:35 [INFO] Loading pocketmine.yml...
+2016-12-27 18:51:35 [INFO] Loading server properties...
+2016-12-27 18:51:35 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-27 18:51:35 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-27 18:51:35 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-27 18:51:42 [INFO] Preparing level "tntwars"
+2016-12-27 18:51:42 [INFO] Starting GS4 status listener
+2016-12-27 18:51:42 [INFO] Setting query port to 19132
+2016-12-27 18:51:42 [INFO] Query running on 0.0.0.0:19132
+2016-12-27 18:51:42 [INFO] Default game type: CREATIVE
+2016-12-27 18:51:42 [INFO] Done (12.858s)! For help, type "help" or "?"
+2016-12-27 18:56:26 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2016-12-27 18:56:26 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-12-27 18:56:26 [INFO] Loading pocketmine.yml...
+2016-12-27 18:56:26 [INFO] Loading server properties...
+2016-12-27 18:56:26 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2016-12-27 18:56:27 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-12-27 18:56:27 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-12-27 18:56:34 [INFO] Preparing level "tntwars"
+2016-12-27 18:56:35 [INFO] Starting GS4 status listener
+2016-12-27 18:56:35 [INFO] Setting query port to 19132
+2016-12-27 18:56:35 [INFO] Query running on 0.0.0.0:19132
+2016-12-27 18:56:35 [INFO] Default game type: CREATIVE
+2016-12-27 18:56:35 [INFO] Done (14.856s)! For help, type "help" or "?"
